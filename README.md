@@ -1,2 +1,4 @@
 # Differential-Drive-Robot
-I use differential drive to control the robot’s movement.
+利用正点原子精英开发板STM32F407ZGT6开发的差动驱动机器人。
+利用遥控器控制车的运动以及可以收到tx2发送的雷达数据。
+电机采用的是中菱科技的轮毂电机。
